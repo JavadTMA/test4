@@ -1,0 +1,4 @@
+echo "Hello GitHub" > file.txt
+git add file.txt
+git commit -m "Add new file"
+git push
